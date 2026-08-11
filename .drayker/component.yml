@@ -1,0 +1,35 @@
+schema_version: 1
+component:
+  id: dsupport
+  name: Distributed support
+  layer: PLATFORM
+  artifact_type: architecture
+  problem: "A network without an owner still runs on hardware someone paid for."
+  scope:
+    - "Public description of support nodes, physical and virtual."
+    - "Public description of relation to Dk Network and LCrypt."
+    - "Public description of what the network owes a node."
+    - "Public description of failure and replacement of a node."
+  non_scope:
+    - "A deployed support network or any commitment of hardware."
+    - "A payment, reward or compensation scheme for running a node."
+  dependencies:
+    - dknetwork
+    - lc
+    - daf
+  implementation:
+    level: none
+    scope: This repository publishes a charter and open questions; nothing is implemented.
+    evidence:
+      - type: document
+        ref: README.md
+  risks:
+    - Design language may be mistaken for an available capability.
+    - The absence of a specification can leave contributions without a clear target.
+  contributions:
+    availability: open
+    entrypoint: https://github.com/draykerdk/distributed-support/issues
+  source_of_truth:
+    repository: https://github.com/draykerdk/distributed-support
+    path: README.md
+  last_reviewed: "2026-08-11"
