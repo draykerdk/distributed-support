@@ -13,5 +13,16 @@ dk_rings: "drydock"
 dk_wedge: "shield"
 dk_accent: "#FF5500"
 
+# jekyll-remote-theme fetches the shared layout; jekyll-optional-front-matter lets
+# README.md render without front matter; the defaults block is what actually applies
+# the layout to it. Without all three, GitHub Pages serves bare converted markdown.
 plugins:
+  - jekyll-remote-theme
+  - jekyll-optional-front-matter
   - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
