@@ -1,5 +1,3 @@
-# Distributed support
-
 > The machines and the people who would actually keep the network running when there is no data centre to rent.
 
 **The physical side of a network with no data centre.**
