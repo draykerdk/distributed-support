@@ -6,12 +6,6 @@ dk_kicker: "Support layer"
 dk_subdomain: "support.drayker.org"
 dk_repo: "https://github.com/draykerdk/distributed-support"
 
-# The mark, drawn by the shared engine. The scope colour is the main accent until the
-# mark owner assigns one — DRAYKER-MARK.md §7 forbids inventing a new colour.
-dk_body: "hull"
-dk_rings: "drydock"
-dk_wedge: "shield"
-dk_accent: "#FF5500"
 
 # jekyll-remote-theme fetches the shared layout; jekyll-optional-front-matter lets
 # README.md render without front matter; the defaults block is what actually applies
@@ -26,4 +20,7 @@ defaults:
       path: ""
     values:
       layout: default
-dk_sphere: "slate"  # the machines holding it up
+
+# The official mark, recoloured. Geometry is fixed for every project
+# (DRAYKER-MARK.md §2.5); only the globe carries the scope.
+dk_accent: "#8FA8C4"  # the machines: steel holding the thing up
