@@ -26,3 +26,4 @@ defaults:
       path: ""
     values:
       layout: default
+dk_sphere: "slate"  # the machines holding it up
