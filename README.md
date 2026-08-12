@@ -46,13 +46,11 @@ document about it has somewhere to live and someone can argue with it in public.
 - A payment, reward or compensation scheme for running a node.
 - Any tradable claim, income or return derived from contributing capacity.
 
-## Role in the system
+## How it fits the whole
 
-The hardware a network with no data centre would run on.
+The physical side of a network with no data centre — the machines that hold it up, the people who keep them running, and whatever makes it worth their while.
 
-**Relations.** Sits under Dk Network · secured by LCrypt · its incentive overlaps DAF federative points.
-
-**Depends on.** `dknetwork` · `lc` · `daf`
+Support sits under [Dk Network](https://dknetwork.drayker.org): the network is the design, and distributed support is how that design exists in the world. It is secured by [Living Cryptography](https://lc.drayker.org). Its incentive overlaps [DAF](https://daf.drayker.org) federative points, and the [value unit](https://value.drayker.org) would be what funds it — completing the loop: a person delivers work, identity attributes it, the federation scores it, and the value layer turns it into support. [Stations](https://stations.drayker.org) are the human face of the same layer — the places where the support and the network touch the ground.
 
 ## First functions
 
