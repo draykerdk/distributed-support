@@ -4,7 +4,7 @@
 
 Physical and virtual support, distributed across the people and machines that actually run the network: the machines that hold it up, the people who keep them running, and whatever makes it worth their while to keep doing it.
 
-The substrate is meant to be idle capacity that already exists — ordinary devices already running Drayker software — rather than hardware bought for the purpose. Contribution comes in two tiers: the main network draws on nodes that are authenticated and supervised, while the secondary network accepts lighter contribution that does not require identity at all.
+The substrate is meant to be idle capacity that already exists, ordinary devices already running Drayker software, rather than hardware bought for the purpose. Contribution comes in two tiers: the main network draws on nodes that are authenticated and supervised, while the secondary network accepts lighter contribution that does not require identity at all.
 
 ## The problem it addresses
 
@@ -18,14 +18,14 @@ A network without an owner still runs on hardware someone paid for. If the suppo
 
 ## Where this stands
 
-Drayker has internal material on the support layer that is not published — it sits inside the network design rather than in a document of its own, which is part of why this component has no specification. What a support node is, what it owes the network and what the network owes back are all still open. The first public document about it is what makes it real for everyone else.
+Drayker has internal material on the support layer that is not published. It sits inside the network design rather than in a document of its own, which is part of why this component has no specification. What a support node is, what it owes the network and what the network owes back are all still open. The first public document about it is what makes it real for everyone else.
 
 Two mechanisms are described in that material and are worth stating early, because they shape everything else:
 
 - **Redundancy instead of trust.** The same work is computed at several independent points and the results compared, so a wrong or dishonest answer is detected rather than believed. A node that returns faults is audited, and can be removed.
-- **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful — the incentive follows need, not volume.
+- **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume.
 
-What a contributor gets back is standing in the system — priority in queues and access — and not income. Nothing here is a return, a yield or a payment.
+What a contributor gets back is standing in the system, priority in queues and access, and not income. Nothing here is a return, a yield or a payment.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -77,11 +77,11 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Distributed support is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml) — the machine-readable contract,
+- [`.drayker/component.yml`](.drayker/component.yml). The machine-readable contract,
   validated on every pull request.
-- [drayker.org/project/dsupport/](https://drayker.org/project/dsupport/) — the same record
+- [drayker.org/project/dsupport/](https://drayker.org/project/dsupport/). The same record
   inside the portal, with the live board.
-- [drayker.com/project/dsupport/](https://drayker.com/project/dsupport/) — the case for it,
+- [drayker.com/project/dsupport/](https://drayker.com/project/dsupport/). The case for it,
   in plain terms.
 
 ---
