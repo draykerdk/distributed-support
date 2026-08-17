@@ -8,7 +8,7 @@ The substrate is meant to be idle capacity that already exists, ordinary devices
 
 ## The problem it addresses
 
-A network without an owner still runs on hardware someone paid for. If the support layer is not designed, the network quietly re-centralizes around whoever can afford to host it.
+A network protected from external ownership still runs on hardware someone paid for. If the support layer is not designed, the network quietly re-centralizes around whoever can afford to host it.
 
 **How it works today.** Distributed systems still end up hosted by a handful of companies, which is where control quietly returns.
 
@@ -25,7 +25,7 @@ Two mechanisms are described in that material and are worth stating early, becau
 - **Redundancy instead of trust.** The same work is computed at several independent points and the results compared, so a wrong or dishonest answer is detected rather than believed. A node that returns faults is audited, and can be removed.
 - **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume.
 
-What a contributor gets back is standing in the system, priority in queues and access, and not income. Nothing here is a return, a yield or a payment.
+The design must account for reciprocity without turning contribution into a rank of persons. History, scarcity and need may inform support, but access to common capacity requires transparent member-defined rules; it is not automatic income, a return, a yield or a payment.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
@@ -50,7 +50,7 @@ document about it has somewhere to live and someone can argue with it in public.
 
 The physical side of a network with no data centre — the machines that hold it up, the people who keep them running, and whatever makes it worth their while.
 
-Support sits under [Dk Network](https://dknetwork.drayker.org): the network is the design, and distributed support is how that design exists in the world. It is secured by [Living Cryptography](https://lc.drayker.org). Its incentive overlaps [DAF](https://daf.drayker.org) federative points, and the [value unit](https://value.drayker.org) would be what funds it — completing the loop: a person delivers work, identity attributes it, the federation scores it, and the value layer turns it into support. [Stations](https://stations.drayker.org) are the human face of the same layer — the places where the support and the network touch the ground.
+Support sits under [Dk Network](https://dknetwork.drayker.org): the network is the design, and distributed support is how that design exists in the world. It is secured by [Living Cryptography](https://lc.drayker.org). Its accounting overlaps transitional [DAF](https://daf.drayker.org) points and the [value-unit](https://value.drayker.org) proposal, but neither creates an automatic score-to-resource pipeline. Dk may coordinate evidence and capacity; members govern rights, priorities and exceptions. [Stations](https://stations.drayker.org) are the human face of the same layer — the places where support and network touch the ground.
 
 ## First functions
 
