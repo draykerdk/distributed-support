@@ -1,6 +1,6 @@
 # Distributed support
 
-> The physical side of a network with no data centre. Physical and virtual support, distributed across the people and machines that actually run the network: the machines that hold it up, the people who keep them running, and whatever makes it worth their while to keep doing it.
+> A proposed program and application for supporting Drayker members across all levels of need, connecting local responses to capacities available across the global system.
 
 Distributed support is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 
