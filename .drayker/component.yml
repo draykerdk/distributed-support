@@ -4,23 +4,28 @@ component:
   name: Distributed support
   layer: PLATFORM
   artifact_type: architecture
-  problem: "A network without an owner still runs on hardware someone paid for."
+  problem: "A distributed system can decentralize its computers while leaving members without a path to satisfy needs across local and global capacities."
   scope:
-    - "Public description of support nodes, physical and virtual."
-    - "Public description of the two tiers of contribution: authenticated nodes and identity-free light contribution."
-    - "Public description of redundant computation and comparison as the basis of trust."
-    - "Public description of contribution weighted by scarcity rather than volume."
-    - "Public description of relation to Dk Network and LCrypt."
-    - "Public description of what the network owes a node."
-    - "Public description of failure, audit and removal of a node."
+    - "Public description of a member-support program and application across multiple levels of need."
+    - "Public description of local responses connected to capacities available across the global system."
+    - "Public description of material, social, educational, computational, community and other support paths."
+    - "Public description of consent, access, qualified-provider boundaries, human review and contestability."
+    - "Public description of relation to Dk Personal, UID, Dknowledge, PAP, the Academy, Stations and the capacity economy."
+    - "Public description of infrastructure support as one branch: physical and virtual nodes, redundancy, scarcity and audit."
+    - "Public separation between needs, infrastructure contribution, contextual reputation, resource units and scarce-capacity priority."
   non_scope:
-    - "A deployed support network or any commitment of hardware."
-    - "A payment, reward or compensation scheme for running a node."
-    - "Any tradable claim, income or return derived from contributing capacity."
+    - "A deployed support program, application, service network or commitment of resources."
+    - "A welfare, health, housing, employment, emergency or benefits service available today."
+    - "A guarantee that any individual or category of need will be satisfied."
+    - "A deployed payment, reward or compensation scheme for running a node."
+    - "Any automatic tradable claim, income or return derived from contributing capacity."
+    - "A rule that makes basic-needs support depend on node ownership, Academy history or one reputation score."
   dependencies:
+    - personal
+    - uid
+    - pap
     - dknetwork
     - lc
-    - daf
   implementation:
     level: none
     scope: This repository publishes a charter and open questions; nothing is implemented.
@@ -36,4 +41,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/distributed-support
     path: README.md
-  last_reviewed: "2026-08-11"
+  last_reviewed: "2026-08-20"
