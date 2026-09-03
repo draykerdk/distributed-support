@@ -1,70 +1,77 @@
-> A program and application for finding ways to satisfy members' needs at every level, locally and globally.
+> Common capacity that helps members, projects, communities and infrastructure become able to continue and grow.
 
-**Support at every level, wherever a member is.**
+**Support is not only what keeps machines running. It is what lets people and projects participate.**
 
-Distributed Support is a proposed program and application for supporting Drayker members across all levels of need. It relates a member's local context to capacities available nearby and across the global system, seeking practical ways to satisfy material, social, educational, computational, community and other needs without reducing the person to one score.
+Distributed Support is the proposed support layer of Drayker. It connects needs, intentions, knowledge, projects, physical places, tools, compute and other scarce resources so that capacity can reach the context where it can expand both a member's possibilities and the capability of the whole.
 
-Physical and virtual infrastructure is one branch of that program, not its definition. In that branch, the substrate is meant to draw on idle capacity that already exists and ordinary devices already running Drayker software. Contribution may come through authenticated and supervised nodes or lighter identity-free participation. Other branches must be designed around the member need being addressed and the safeguards it requires.
+Network nodes are one real part of the design, but they are not the whole Support Model.
 
-## The problem it addresses
+## Two connected planes
 
-A distributed system can decentralize its computers while leaving its members alone with needs that only centralized institutions can answer. If support is not designed across local and global scales, participation remains available mainly to people who already have the necessary resources and conditions.
+### Members, projects and communities
 
-**How it works today.** Support is fragmented by institution, geography and category; a local lack can remain unsatisfied even when relevant capacity exists elsewhere in the network.
+Support can include formation, tools, time, access to places, project resources, assistance under need, projects of life and the gradual construction of a common floor. No operating benefit or income programme exists today.
 
-**What would change.** A member can present a need through a consented local interface; the program can relate it to nearby responses, global capacities, projects, learning, infrastructure and resource mechanisms, while preserving human review and contestability.
+The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status.
 
-**Why the rest depends on it.** A system for human development is incomplete if people can contribute to it but cannot use it to seek the conditions required to live, learn, work and participate.
+### Network and physical substrate
 
-## Where this stands
+The substrate uses capacity that already exists — ordinary devices, idle compute and storage, people who keep them running — rather than hardware bought for one centre. Contribution comes in two tiers: authenticated and supervised nodes on the main network, and lighter, identity-free contribution on the secondary one.
 
-Drayker has internal material on Distributed Support that is not yet specified publicly. It describes a wider member-support program as well as infrastructure mechanisms. What counts as a support need, how local and global capacities are matched, which services require qualified providers, and what the system can promise are still open. The first public specification must define the program rather than treating one infrastructure branch as the whole.
-
-Two mechanisms described for the infrastructure branch are worth preserving without generalizing them to every kind of support:
+Two mechanisms shape the design and are worth stating early:
 
 - **Redundancy instead of trust.** The same work is computed at several independent points and the results compared, so a wrong or dishonest answer is detected rather than believed. A node that returns faults is audited, and can be removed.
 - **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume.
 
-The first design must keep member needs, infrastructure contribution, contextual reputation, scarce-capacity priority and resource instruments distinct. Contributing a node may create attributable history and may justify infrastructure-specific compensation if a later lawful scheme explicitly provides it; it does not automatically create income, return, general priority or greater human worth. Support is not a prize for owning hardware, holding Dktrons or accumulating standing.
+## The problem it addresses
+
+Members, projects, communities and a distributed network all need real capacity. If support is reduced to hardware reciprocity or personal purchasing power, the system reproduces the exclusions and centralization it exists to overcome.
+
+**How it works today.** Distributed systems still end up hosted by a handful of companies, which is where control quietly returns — and people who could participate are excluded when support means only money or only machines.
+
+**What would change.** Capacity is contributed by many independent parties and directed by context: need, intention, history, project evidence and accountability, under member-defined rules.
+
+**Why the rest depends on it.** With no answer to who supports the people and the machines, decentralization is a diagram.
+
+## Where this stands
+
+The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. No support allocation, entitlement, node protocol or member programme is operating today.
+
+Reciprocity must never become a rank of persons. History, scarcity and need may inform support, but access to common capacity requires transparent member-defined rules; it is not automatic income, a return, a yield or a payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
 
 ## Scope
 
-- A member-support program and application across multiple levels of need
-- Local responses connected to capacities available across the global system
-- Material, social, educational, computational, community and other support paths
-- Consent, access, qualified-provider boundaries, human review and contestability
-- Relation to Dk Personal, UID, Dknowledge, PAP, the Academy, Stations and the capacity economy
-- Infrastructure support as one branch: physical and virtual nodes, redundancy, scarcity and audit
-- Separation between needs, infrastructure contribution, contextual reputation, resource units and scarce-capacity priority
+- Human, project and community support
+- Projects of life as a connection among intention, formation, participation and support
+- A growing common floor as abundance increases
+- Project funds and support contexts
+- Physical and virtual support nodes
+- Scarcity-aware compute, storage, bandwidth and redundancy
+- Relationship with Dk Personal, PAP, Dknowledge, Academy, Stations and Dk Network
+- Explainable contextual synthesis by Dk with accountable member authorization
 
 ## Not in scope
 
-- A deployed support program, application, service network or commitment of resources.
-- A welfare, health, housing, employment, emergency or benefits service available today.
-- A guarantee that any individual or category of need will be satisfied.
-- A deployed payment, reward or compensation scheme for running a node.
-- Any automatic tradable claim, income or return derived from contributing capacity.
-- A rule that makes basic-needs support depend on node ownership, Academy history or one reputation score.
-
-## How it fits the whole
-
-The program that connects what a member needs to what the system may be able to provide, nearby or across the world.
-
-[Dk Personal](https://personal.drayker.org) can help a member express context and needs under their control; [UID](https://uid.drayker.org) can preserve continuity without turning identity into eligibility by score. [PAP](https://pap.drayker.org) can host the projects and applications that answer needs, the [Academy](https://academy.drayker.org) can carry educational paths, and [Stations](https://stations.drayker.org) can become local physical and social fronts. The capacity economy and [Dktron/value units](https://value.drayker.org) may carry governed resource decisions. [Dk Network](https://dknetwork.drayker.org) and [Living Cryptography](https://lc.drayker.org) support the infrastructure branch. Dk may model options and consequences; it does not acquire sovereign authority over members or resources.
+- A deployed support network or a commitment of resources
+- Employment, compensation, income, universal basic income or guaranteed benefits today
+- A score that determines human worth, membership or fundamental rights
+- Automatic entitlement produced by contribution, reputation or a token
+- A black-box Dk acting as sovereign owner or allocator of common resources
+- Biometric intimacy, unverified fixed rates or automatic eligibility as requirements
 
 ## First functions
 
 These are concrete and unclaimed. Any of them can be opened as an issue and delivered
 by one person.
 
-1. Define a needs taxonomy and the boundaries between ordinary support, qualified professional services and emergencies.
-2. Model one complete local-to-global support path: consent, request, discovery, human review, delivery, feedback and appeal.
-3. Design one bounded pilot that can make no promise beyond its actual capacity.
-4. Specify how support remains separate from DAF points, general reputation, Dktron ownership and hardware contribution.
-5. Write the infrastructure subprogram: node tiers, redundancy, scarcity, audit and removal.
+1. Separate the human/project support model from the network-substrate model without disconnecting them.
+2. Specify one small, reviewable project-support experiment using no currency and making every decision reconstructable.
+3. Define how a project of life relates to Dk Personal, PAP and Dknowledge under consent.
+4. Model when a scarce resource can move into a common floor.
+5. Specify a support node and how scarcity, failure, redundancy and maintenance are measured.
 
 ## How to contribute
 
