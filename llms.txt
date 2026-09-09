@@ -1,6 +1,6 @@
 # Distributed support
 
-> A proposed program and application for supporting Drayker members across all levels of need, connecting local responses to capacities available across the global system.
+> Distributed Support proposes how material resources, tools, computing capacity and shared places can support members, projects and communities.
 
 Distributed support is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
 

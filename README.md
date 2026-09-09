@@ -1,10 +1,14 @@
-> Common capacity that helps members, projects, communities and infrastructure become able to continue and grow.
+> Connect needs with the capacity to participate and continue.
 
-**Support is not only what keeps machines running. It is what lets people and projects participate.**
+Distributed Support proposes how material resources, tools, computing capacity and shared places can support members, projects and communities.
 
-Distributed Support is the proposed support layer of Drayker. It connects needs, intentions, knowledge, projects, physical places, tools, compute and other scarce resources so that capacity can reach the context where it can expand both a member's possibilities and the capability of the whole.
+The model connects a stated need to available capacity, a contextual allocation decision and an accountable record of how support is used.
 
-Network nodes are one real part of the design, but they are not the whole Support Model.
+Support is intended to expand human possibilities and common capability, with basic support independent of reputation and productive output.
+
+## A practical example
+
+A community project might need workspace and equipment while a research task needs cluster time. Each request should be considered in its own material context. This is an illustration of the proposed design.
 
 ## Two connected planes
 
@@ -27,13 +31,7 @@ Two mechanisms shape the design and are worth stating early:
 
 ## The problem it addresses
 
-Members, projects, communities and a distributed network all need real capacity. If support is reduced to hardware reciprocity or personal purchasing power, the system reproduces the exclusions and centralization it exists to overcome.
-
-**How it works today.** Distributed systems still end up hosted by a handful of companies, which is where control quietly returns — and people who could participate are excluded when support means only money or only machines.
-
-**What would change.** Capacity is contributed by many independent parties and directed by context: need, intention, history, project evidence and accountability, under member-defined rules.
-
-**Why the rest depends on it.** With no answer to who supports the people and the machines, decentralization is a diagram.
+The ability to contribute depends on practical conditions: time, access, equipment, care and reliable infrastructure. A public invitation alone does not provide them.
 
 ## Where this stands
 
@@ -41,8 +39,7 @@ The repository publishes the current architectural formulation of Distributed Su
 
 Reciprocity must never become a rank of persons. Access to the common capacity floor is an inalienable civilizational baseline, not an earned privilege or reward for obedience. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
 
-Nothing described here is implemented. This repository exists so that the first
-document about it has somewhere to live and someone can argue with it in public.
+This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
 ## Scope
 
