@@ -10,9 +10,11 @@ Network nodes are one real part of the design, but they are not the whole Suppor
 
 ### Members, projects and communities
 
-Support can include formation, tools, time, access to places, project resources, assistance under need, projects of life and the gradual construction of a common floor. No operating benefit or income programme exists today.
+As developed in *Do animal à superinteligência* (Chapters 28–32, 44–47), the rise of superintelligence breaks wage labor as the primary mechanism for distributing survival. When machines produce intellectual and material goods at near-zero marginal cost, tying human dignity to the sale of commoditized hours becomes a mechanism of artificial scarcity and coercion.
 
-The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status.
+Distributed Support specifies the gradual construction of a **Common Capacity Floor (Piso Comum de Capacidade)**: ensuring that every member has unconditional access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely. 
+
+The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status. No operating benefit or income programme exists today.
 
 ### Network and physical substrate
 
@@ -37,7 +39,7 @@ Members, projects, communities and a distributed network all need real capacity.
 
 The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. No support allocation, entitlement, node protocol or member programme is operating today.
 
-Reciprocity must never become a rank of persons. History, scarcity and need may inform support, but access to common capacity requires transparent member-defined rules; it is not automatic income, a return, a yield or a payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
+Reciprocity must never become a rank of persons. Access to the common capacity floor is an inalienable civilizational baseline, not an earned privilege or reward for obedience. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
 
 Nothing described here is implemented. This repository exists so that the first
 document about it has somewhere to live and someone can argue with it in public.
