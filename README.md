@@ -14,7 +14,7 @@ A community project might need workspace and equipment while a research task nee
 
 ### Members, projects and communities
 
-As developed in *Do animal à superinteligência* (Chapters 28–32, 44–47), the rise of superintelligence breaks wage labor as the primary mechanism for distributing survival. When machines produce intellectual and material goods at near-zero marginal cost, tying human dignity to the sale of commoditized hours becomes a mechanism of artificial scarcity and coercion.
+As developed in *Do animal à superinteligência* (chapters 28–32 and 48–51), the rise of superintelligence breaks wage labor as the primary mechanism for distributing survival. When machines produce intellectual and material goods at near-zero marginal cost, tying human dignity to the sale of commoditized hours becomes a mechanism of artificial scarcity and coercion.
 
 Distributed Support specifies the gradual construction of a **Common Capacity Floor (Piso Comum de Capacidade)**: ensuring that every member has unconditional access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely. 
 
