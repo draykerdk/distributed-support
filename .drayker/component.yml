@@ -22,7 +22,7 @@ component:
     - "An operating income, benefit, housing, equipment or universal-basic-income programme."
     - "Any tradable claim, income or return derived from contributing capacity."
     - "A score-to-resource pipeline that overrides member-defined rights, needs or accountability."
-    - "Biometric intimacy, unverified fixed rates or automatic eligibility treated as requirements."
+    - "Biometric requirements beyond the member's UID, unverified fixed rates or automatic eligibility treated as requirements."
   dependencies:
     - dknetwork
     - lc

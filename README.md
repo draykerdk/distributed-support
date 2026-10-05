@@ -59,7 +59,7 @@ This repository develops the proposal through public documentation and review. T
 - A score that determines human worth, membership or fundamental rights
 - Automatic entitlement produced by contribution, reputation or a token
 - A black-box Dk acting as sovereign owner or allocator of common resources
-- Biometric intimacy, unverified fixed rates or automatic eligibility as requirements
+- Biometric requirements beyond the member's UID, unverified fixed rates or automatic eligibility as requirements
 
 ## First functions
 
