@@ -27,7 +27,7 @@ The substrate uses capacity that already exists — ordinary devices, idle compu
 Two mechanisms shape the design and are worth stating early:
 
 - **Redundancy instead of trust.** The same work is computed at several independent points and the results compared, so a wrong or dishonest answer is detected rather than believed. A node that returns faults is audited, and can be removed.
-- **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume.
+- **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume. What you contribute earns the reward, a transferable kind of reputation that can give faster or priority access to resources.
 
 ## The problem it addresses
 
