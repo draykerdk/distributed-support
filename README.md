@@ -50,7 +50,7 @@ This repository develops the proposal through public documentation and review. T
 - Physical and virtual support nodes
 - Scarcity-aware compute, storage, bandwidth and redundancy
 - Relationship with Dk Personal, PAP, Dknowledge, Academy, Stations and Dk Network
-- Explainable contextual synthesis by Dk with accountable member authorization
+- Explainable contextual synthesis and allocation by Dk inside the constitution, open to members' well-justified vetoes
 
 ## Not in scope
 
