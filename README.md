@@ -16,7 +16,7 @@ A community project might need workspace and equipment while a research task nee
 
 The rise of superintelligence breaks wage labor as the primary mechanism for distributing survival. When machines produce intellectual and material goods at near-zero marginal cost, tying human dignity to the sale of commoditized hours becomes a mechanism of artificial scarcity and coercion.
 
-Distributed Support specifies the gradual construction of a **Common Capacity Floor (Piso Comum de Capacidade)**: ensuring that every member has unconditional access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely. 
+Distributed Support specifies the gradual construction of a **Common Capacity Floor (Piso Comum de Capacidade)**: ensuring that every approved member has access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely, without depending on reputation. Approval as a member has requirements of integration and collaboration. 
 
 The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status. No operating benefit or income programme exists today.
 
@@ -37,7 +37,7 @@ The ability to contribute depends on practical conditions: time, access, equipme
 
 The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. No support allocation, entitlement, node protocol or member programme is operating today.
 
-Reciprocity must never become a rank of persons. Access to the common capacity floor is an inalienable civilizational baseline, not an earned privilege or reward for obedience. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
+Reciprocity must never become a rank of persons. Access to the common capacity floor belongs to approved members. Approval has requirements of integration and collaboration, and once a member is approved, access does not depend on rank, reputation or obedience. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
 
 This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
