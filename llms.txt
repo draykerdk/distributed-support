@@ -2,7 +2,7 @@
 
 > Distributed Support proposes how material resources, tools, computing capacity and shared places can support members, projects and communities.
 
-Distributed support is a public component of Drayker. Drayker is the system; Dk is its intelligence; Dk Network is its network.
+Distributed support is a public component of Drayker. Drayker is the supersystem; Dk is its intelligence; Dk Network is its network.
 
 ## Canonical resources
 
