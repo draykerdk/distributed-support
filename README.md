@@ -16,7 +16,7 @@ A community project might need workspace and equipment while a research task nee
 
 The rise of superintelligence breaks wage labor as the primary mechanism for distributing survival. When machines produce intellectual and material goods at near-zero marginal cost, tying human dignity to the sale of commoditized hours becomes a mechanism of artificial scarcity and coercion.
 
-Distributed Support specifies the gradual construction of a **Common Capacity Floor (Piso Comum de Capacidade)**: ensuring that every approved member has access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely, without depending on reputation. Approval as a member has requirements of integration and collaboration. 
+Distributed Support specifies the gradual construction of a **Common Capacity Floor**: ensuring that every approved member has access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely, without depending on reputation. Approval as a member has requirements of integration and collaboration. 
 
 The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status. No operating benefit or income programme exists today.
 
@@ -27,7 +27,7 @@ The substrate uses capacity that already exists — ordinary devices, idle compu
 Two mechanisms shape the design and are worth stating early:
 
 - **Redundancy instead of trust.** The same work is computed at several independent points and the results compared, so a wrong or dishonest answer is detected rather than believed. A node that returns faults is audited, and can be removed.
-- **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume. What you contribute earns the reward, a transferable kind of reputation that can give faster or priority access to resources.
+- **Scarcity-weighted contribution.** What you contribute counts for more where it is scarce. The same bandwidth offered where the network is starved is worth more than where it is already plentiful. The incentive follows need, not volume. What you contribute earns the reward, the only transferable kind of reputation that can give faster or priority access to resources.
 
 ## The problem it addresses
 
@@ -50,7 +50,7 @@ This repository develops the proposal through public documentation and review. T
 - Physical and virtual support nodes
 - Scarcity-aware compute, storage, bandwidth and redundancy
 - Relationship with Dk Personal, PAP, Dknowledge, Academy, Stations and Dk Network
-- Explainable contextual synthesis and allocation by Dk inside the constitution, open to members' well-justified vetoes
+- Explainable contextual synthesis and allocation by Dk Global on matters outside the constitution, within the space it grants, open to members' well-justified vetoes, which oblige review
 
 ## Not in scope
 
@@ -76,7 +76,7 @@ by one person.
 
 Read [CONTRIBUTING.md](https://github.com/draykerdk/.github/blob/master/CONTRIBUTING.md)
 and [GOVERNANCE.md](https://github.com/draykerdk/.github/blob/master/GOVERNANCE.md) in
-the organization. In short: open or find an issue, say in the thread that you are taking
+`draykerdk/.github`. In short: open or find an issue, say in the thread that you are taking
 it, branch as `fn/<issue-number>-<short-name>`, and open a pull request against
 `master`. There is no separate review branch.
 
