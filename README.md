@@ -85,7 +85,7 @@ Participation is voluntary and implies no compensation, employment or future cla
 ## Sources of truth
 
 - This repository, for what Distributed support is and is not.
-- [`.drayker/component.yml`](.drayker/component.yml). The machine-readable contract,
+- [`.drayker/component.yml`](https://github.com/draykerdk/distributed-support/blob/master/.drayker/component.yml). The machine-readable contract,
   validated on every pull request.
 - [drayker.org/project/dsupport/](https://drayker.org/project/dsupport/). The same record
   inside the portal, with the live board.
