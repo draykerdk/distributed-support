@@ -35,7 +35,7 @@ The ability to contribute depends on practical conditions: time, access, equipme
 
 ## Where this stands
 
-The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. Resources from outside the network enter and leave through the treasury and external interface described in [Value Unit](https://github.com/draykerdk/value-unit). No support allocation, entitlement, node protocol or member programme is operating today.
+The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. Resources from outside the network enter and leave through the treasury and external interface described in [Value Unit](https://value.drayker.org). No support allocation, entitlement, node protocol or member programme is operating today.
 
 Reciprocity must never become a rank of persons. Access to the common capacity floor belongs to every member and does not depend on rank, reputation or obedience. While the network cannot sustain the floor for everyone, mainly when resources are scarce, access depends on an endorsement that works more like a queue weighted by context, such as each person's need and urgency, than like an approval in itself. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose; accountable member institutions authorize consequential allocations, inside systemic safeguards.
 
