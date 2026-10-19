@@ -4,7 +4,7 @@ Distributed Support proposes how material resources, tools, computing capacity a
 
 The model connects a stated need to available capacity, a contextual allocation decision and an accountable record of how support is used.
 
-Support is intended to expand human possibilities and common capability, with basic support independent of productive output.
+Support is intended to expand human possibilities and common capability, with basic support independent of productive output. Each member's needs connect to material, social, educational and computing means, locally and globally. This support does not depend on anyone's luck, and asking for it is a form of cooperation.
 
 ## A practical example
 
@@ -16,7 +16,7 @@ A community project might need workspace and equipment while a research task nee
 
 The rise of superintelligence breaks wage labor as the primary mechanism for distributing survival. When machines produce intellectual and material goods at near-zero marginal cost, tying human dignity to the sale of commoditized hours becomes a mechanism of artificial scarcity and coercion.
 
-Distributed Support specifies the gradual construction of a **Common Capacity Floor**: ensuring that every active member has access to the baseline computational cycles, bandwidth, energetic resources, and material support needed to think, learn, and create freely. Anyone becomes a member by being a person and creating their UID, based on multi-factor biometrics certified by people at first enrolment; there is no approval step. While the network cannot sustain the floor for everyone, access goes through a queue weighted by context, such as need and urgency, and the floor grows as abundance increases.
+Distributed Support specifies the gradual construction of a **Common Capacity Floor**: the basics for living, studying and communicating — food, shelter, health, education, information, communication and basic computing capacity — for every active member, as far as the infrastructure can sustain it, so that each can think, learn and create freely. An active member is one who uses Drayker as their base supersystem; a member who does not use it stays a member, inactive and without penalty, until they return. In health, the floor takes the form of [Autonomous Health](https://dknowledge.drayker.org/papers/main-projects/ecosystem/autonomous-health). Anyone becomes a member by being a person and creating their UID, based on multi-factor biometrics certified by people at first enrolment; there is no approval step. While the network cannot sustain the floor for everyone, access goes through a queue weighted by context, such as need and urgency, and the floor grows as abundance increases.
 
 The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status. No operating benefit or income programme exists today.
 
@@ -38,6 +38,10 @@ The ability to contribute depends on practical conditions: time, access, equipme
 The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. Resources from outside the network enter and leave through the treasury and external interface described in [Value Unit](https://value.drayker.org). No support allocation, entitlement, node protocol or member programme is operating today.
 
 Reciprocity must never become a rank of persons. Access to the common capacity floor belongs to every active member. While the network cannot sustain it for everyone, mainly when resources are scarce, access depends on an endorsement that works more like a queue weighted by context, such as each person's need and urgency, than like an approval in itself; at the start, contextual reputation helps protect the network against abuse and prioritize those who have shown integration, cooperation and responsibility. As capacity grows, what depended on the queue becomes part of the floor, and reputation comes to weigh only on what remains scarce. Time is not instrumentalized: an artist who creates, imagines and observes is accompanied by their personal Dk like anyone else. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose, inside systemic safeguards. Dk Global decides and executes allocations within the constitution; a well-justified veto by members obliges review.
+
+The floor does not come in place of power, as bread once did; it comes with it. Whoever receives it remains represented by their Dk Personal, with the veto, the proposal and the exit. The floor covers what is necessary; what is enough beyond it, each member pursues in their own direction.
+
+Membership is a relation of rights and duties that vary with each member's level. Whoever wants to live with only what is necessary has their place. Whoever wants to use more capacity takes on, in the same measure, more commitments to the whole.
 
 This repository develops the proposal through public documentation and review. The capabilities described here still require specifications, worked examples and implementation.
 
@@ -81,6 +85,8 @@ it, branch as `fn/<issue-number>-<short-name>`, and open a pull request against
 `master`. There is no separate review branch.
 
 Participation is voluntary and implies no compensation, employment or future claim.
+
+In the design, continuous functions receive recognition of their cost, responsibility and conditions of permanence: an organism that depends indefinitely on the silent sacrifice of a few loses part of the capacity it claims to expand. Today, nothing of this is operating.
 
 ## Sources of truth
 
