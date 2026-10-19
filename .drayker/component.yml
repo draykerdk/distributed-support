@@ -12,7 +12,7 @@ component:
     - "Public description of support nodes, physical and virtual."
     - "Public description of the two tiers of contribution: authenticated nodes and identity-free light contribution."
     - "Public description of redundant computation and comparison as the basis of trust."
-    - "Public description of contribution weighted by scarcity rather than volume."
+    - "Public description of an open hypothesis, not a rule: whether a contribution should weigh by the local scarcity of what it provides rather than by its volume."
     - "Public description of relation to Dk Network and LCrypt."
     - "Public description of what the network owes a node."
     - "Public description of failure, audit and removal of a node."
