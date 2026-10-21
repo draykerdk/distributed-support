@@ -8,7 +8,7 @@ component:
   scope:
     - "Public description of support for members, projects and communities as common capacity."
     - "Public description of projects of life and a growing common floor for every active member as research directions."
-    - "Public description of the relationship with Dk Personal, PAP, Dknowledge, Academy and Stations."
+    - "Public description of the relationship with the personal Dk, PAP, Dknowledge, Academy and Stations."
     - "Public description of support nodes, physical and virtual."
     - "Public description of the two tiers of contribution: authenticated nodes and identity-free light contribution."
     - "Public description of redundant computation and comparison as the basis of trust."
@@ -47,4 +47,4 @@ component:
   source_of_truth:
     repository: https://github.com/draykerdk/distributed-support
     path: README.md
-  last_reviewed: "2026-10-19"
+  last_reviewed: "2026-10-21"
