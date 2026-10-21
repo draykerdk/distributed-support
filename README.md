@@ -18,7 +18,7 @@ The rise of superintelligence breaks wage labor as the primary mechanism for dis
 
 Distributed Support specifies the gradual construction of a **common floor of possibility**: the basics for living, studying and communicating — food, shelter, health, education, information, communication and basic computing capacity — for every active member, as far as the infrastructure can sustain it, so that each can think, learn and create freely. An active member is one who uses Drayker as their base supersystem; a member who does not use it stays a member, inactive and without penalty, until they return. In health, the floor takes the form of [Autonomous Health](https://dknowledge.drayker.org/papers/main-projects/ecosystem/autonomous-health). Anyone becomes a member by being a person and creating their UID, based on multi-factor biometrics certified by people at first enrolment; there is no approval step. While the network cannot sustain the floor for everyone, access goes through a queue weighted by context, such as need and urgency, and the floor grows as abundance increases.
 
-The durable direction is broader: a person's Dk Personal can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status. No operating benefit or income programme exists today.
+The durable direction is broader: a person's personal Dk can help relate intentions, dreams, studies, experience and projects; PAP can give those intentions an actionable structure; Dknowledge can preserve the context and consequences; and common resources can be directed toward increasing capacity rather than purchasing consumption or status. No operating benefit or income programme exists today.
 
 ### Network and physical substrate
 
@@ -35,11 +35,11 @@ The ability to contribute depends on practical conditions: time, access, equipme
 
 ## Where this stands
 
-The repository publishes the current architectural formulation of Distributed Support and its relation to Dk Personal, PAP, Dknowledge, Dk Network, Stations and the economy of capacity. Resources from outside the network enter and leave through the treasury and external interface described in [Value Unit](https://value.drayker.org). No support allocation, entitlement, node protocol or member programme is operating today.
+The repository publishes the current architectural formulation of Distributed Support and its relation to the personal Dk, PAP, Dknowledge, Dk Network, Stations and the capacity economy. Resources from outside the network enter and leave through the treasury and external interface described in [Value Unit](https://value.drayker.org). No support allocation, entitlement, node protocol or member programme is operating today.
 
-Reciprocity must never become a rank of persons. Access to the common floor belongs to every active member. While the network cannot sustain it for everyone, mainly when resources are scarce, access depends on an endorsement that works more like a queue weighted by context, such as each person's need and urgency, than like an approval in itself; at the start, contextual reputation helps protect the network against abuse and prioritize those who have shown integration, cooperation and responsibility. As capacity grows, what depended on the queue becomes part of the floor, and reputation comes to weigh only on what remains scarce. Time is not instrumentalized: an artist who creates, imagines and observes is accompanied by their personal Dk like anyone else. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose, inside systemic safeguards. Dk Global decides and executes allocations within the constitution; a well-justified veto by members obliges review.
+Reciprocity must never become a rank of persons. Access to the common floor belongs to every active member. While the network cannot sustain it for everyone, mainly when resources are scarce, access depends on an endorsement that works more like a queue weighted by context, such as each person's need and urgency, than like an approval in itself; at the start, contextual reputation helps protect the network against abuse and prioritize those who have shown integration, cooperation and responsibility. As capacity grows, what depended on the queue becomes part of the floor, and reputation comes to weigh only on what remains scarce. Time is not instrumentalized: an artist who creates, imagines and observes is accompanied by their personal Dk like anyone else. History, scarcity and need may inform operational project support, but access to common capacity requires transparent member-defined rules; it is not automatic speculative income, a return, a yield or a commercial payment. Dk may synthesize context and propose, inside systemic safeguards. The global Dk decides and executes allocations within the constitution; a well-justified veto by members obliges review.
 
-The floor does not come in place of power, as bread once did; it comes with it. Whoever receives it remains represented by their Dk Personal, with the veto, the proposal and the exit. The floor covers what is necessary; what is enough beyond it, each member pursues in their own direction.
+The floor does not come in place of power, as bread once did; it comes with it. Whoever receives it remains represented by their personal Dk, with the veto, the proposal and the exit. The floor covers what is necessary; what is enough beyond it, each member pursues in their own direction.
 
 Membership is a relation of rights and duties that vary with each member's level. Whoever wants to live with only what is necessary has their place. Whoever wants to use more capacity takes on, in the same measure, more commitments to the whole.
 
@@ -53,8 +53,8 @@ This repository develops the proposal through public documentation and review. T
 - Project funds and support contexts
 - Physical and virtual support nodes
 - Scarcity-aware compute, storage, bandwidth and redundancy
-- Relationship with Dk Personal, PAP, Dknowledge, Academy, Stations and Dk Network
-- Explainable contextual synthesis and allocation by Dk Global on matters outside the constitution, within the space it grants, open to members' well-justified vetoes, which oblige review
+- Relationship with the personal Dk, PAP, Dknowledge, Academy, Stations and Dk Network
+- Explainable contextual synthesis and allocation by the global Dk on matters outside the constitution, within the space it grants, open to members' well-justified vetoes, which oblige review
 
 ## Not in scope
 
@@ -72,7 +72,7 @@ by one person.
 
 1. Separate the human/project support model from the network-substrate model without disconnecting them.
 2. Specify one small, reviewable project-support experiment using no currency and making every decision reconstructable.
-3. Define how a project of life relates to Dk Personal, PAP and Dknowledge under consent.
+3. Define how a project of life relates to the personal Dk, PAP and Dknowledge under consent.
 4. Model when a scarce resource can move into a common floor.
 5. Specify a support node and how scarcity, failure, redundancy and maintenance are measured.
 
